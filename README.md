@@ -1,3 +1,5 @@
+# This is on hold until further notice. 
+
 # HRMAPP Pulsoid Discord RPC + OBS Overlay (Electron)
 
 ### 1) Install
