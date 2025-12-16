@@ -1,5 +1,12 @@
-# This is on hold until further notice. 
+# This is unmaintained due to the person who asked me to maintain this cut me off becauwse his friend made a threat of SA and he sided with her
 
+these are left up as an archive
+
+no further work will be done.
+
+-AllisonW
+
+# The above is the mirror from the server hosting historical builds. 
 # HRMAPP Pulsoid Discord RPC + OBS Overlay (Electron)
 
 ### 1) Install
